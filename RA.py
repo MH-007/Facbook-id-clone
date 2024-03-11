@@ -33,7 +33,7 @@ def kontol():
         ︻デ═一 HACKER : MH-007
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : MH-007
-\x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/MH-007haxorbd  
+\x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/MH-007  
 
 \x1b[1;94m────────────────────────────────────────────────────""")
 
@@ -52,7 +52,7 @@ def jembut():
 def yayanxd():
     yayan = input("\n\033[00m\t   [\033[96m Press Enter To Return\033[97m ] ")
     if yayan == "":
-        os.system("python AKASH2021.py")
+        os.system("python MH-0072021.py")
     else:
         sys.exit("\n\033[1;97m [\033[1;91m•\033[1;97m] \033[1;91mGood Byee :')")
 
